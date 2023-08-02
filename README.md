@@ -3,7 +3,7 @@ create .env file copy from .env.example and paste to .env
 
 Run `docker-compose run`
 
-open localhost:8081
+        open localhost:8081
 
         username : root
         
